@@ -11,4 +11,4 @@ Atividade realizada na disciplina de Internet das Coisas do curso Tecnico em Des
 7. Imprimir dados computados  
 8. Área para ligar e desligar e tempo de delay
 
-![projeto](https://github.com/BReimberg/Atividade_IoT/assets/114779298/2534d2a4-2455-46dd-9c5b-da551d63c29d)
+<img src="259495905-2534d2a4-2455-46dd-9c5b-da551d63c29d.png">
